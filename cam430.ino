@@ -24,12 +24,12 @@ const char* ssid = "Abhishek";
 const char* password = "12345678";
 //t.me/espcam123123_bot.
 // Initialize Telegram BOT
-String BOTtoken = "6272811564:AAE2CG9DzoVDXMeVaz-jCjL8mwfDOt4c1gY";  // your Bot Token (Get from Botfather)
+String BOTtoken = "                                                     ";  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-String CHAT_ID = "1195817521";
+String CHAT_ID = "                          ";
 
 bool sendPhoto = false;
 
