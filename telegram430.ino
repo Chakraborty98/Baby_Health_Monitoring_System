@@ -28,11 +28,11 @@ String movementstatus = "";
 String from_name = "Ronnie";
 String chat_id = "1195817521";
 
-#define WIFI_SSID "Abhishek"                                     // input your home or public wifi name 
+#define WIFI_SSID "Abhishek"                                         // input your home or public wifi name 
 #define WIFI_PASSWORD "12345678"
 
-#define BOTtoken "6272811564:AAE2CG9DzoVDXMeVaz-jCjL8mwfDOt4c1gY"
-#define CHAT_ID "1195817521"
+#define BOTtoken "                                               "   // give your personal BOTtoken ID
+#define CHAT_ID "             "                                      // give your personal telegram id number
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
